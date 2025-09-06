@@ -9,11 +9,36 @@ I will be using this GitHub page to document my learning, track projects, and bu
 
 ## Skills I want to develop 
 
-I am aspiring to develop skills in the following areas:  
+I am aspiring to develop a broad and well-rounded set of cybersecurity skills through my apprenticeship, gaining experience across key areas of the field:
 
-- **Cyber Security Concepts:** Security/Network fundamentals, cloud security basics, ethical hacking introduction  
-- **Programming & Scripting:** Python
-- **Tools & Platforms:** Linux, Git, Cloud environments  
+### Cyber Defence
+- Understanding the principles of protecting systems, networks, and data  
+- Introduction to threat detection and response techniques  
+- Building practical awareness of defensive strategies  
+
+### Infrastructure Security
+- Learning to secure servers, networks, and cloud environments  
+- Exposure to system hardening and access control practices  
+- Developing knowledge of network and endpoint security fundamentals  
+
+### IT Governance, Risk & Compliance 
+- Exploring IT governance frameworks and standards  
+- Understanding risk assessment and mitigation  
+- Learning auditing and compliance practices  
+
+### Programming & Automation
+- Python and Bash scripting for security-related tasks  
+- Automating basic processes and analysis workflows  
+
+### Tools & Platforms
+- Linux fundamentals  
+- Git and version control  
+- Exposure to cloud platforms (AWS, Azure)  
+
+### Professional Growth
+- Analytical thinking and problem-solving 
+- Documenting projects and learning effectively  
+- Working towards relevant certifications to validate and expand knowledge
 
 ---
 
